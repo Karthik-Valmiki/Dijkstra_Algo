@@ -1,0 +1,19 @@
+# === Python Backend ===
+backend/Myenv/
+backend/__pycache__/
+backend/*.pyc
+backend/.env
+
+# === Node.js Frontend ===
+frontend/node_modules/
+frontend/build/
+frontend/dist/
+frontend/.env
+frontend/.env.local
+
+# === System & IDEs ===
+.vscode/
+.idea/
+Thumbs.db
+desktop.ini
+*.log
